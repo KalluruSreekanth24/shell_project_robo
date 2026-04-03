@@ -1,6 +1,6 @@
 #!/bin/bash
 
-AMI_ID="ami-09c813fb71547fc4f"
+AMI_ID="ami-0220d79f3f480ecf5"
 SG_ID="sg-0330ac6e79847a00d" # replace with your SG ID
 ZONE_ID="Z08042573VC8CFB7BAMV" # replace with your ID
 DOMAIN_NAME="rajeswari.shop"
